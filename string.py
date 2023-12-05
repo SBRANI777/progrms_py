@@ -1,4 +1,4 @@
-str1="Virat@kohli.banglore"
+str1="Viratking@kohli.banglore"
 f_name=str1[:str1.find("@")]
 s_name=str1[str1.find("@")+1:str1.find(".")]
 t_name=str1[str1.find(".")+1:]

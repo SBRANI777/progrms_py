@@ -1,4 +1,4 @@
-#writing a progrm to check arm strong number
+#writing a progrm to check arm strong number and not
 n=int(input("enter any number:"))
 temp=n
 rev=0
